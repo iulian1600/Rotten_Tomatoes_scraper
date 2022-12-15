@@ -15,4 +15,4 @@ through all reviews, and also calculate the number of reviews/reviewer >50,
 but that would result in a longer execution time, which is around 3 minutes
 for one link at this stage.
 
-https://github.com/iulian1600/Rotten_Tomatoes_scraper.git
+
